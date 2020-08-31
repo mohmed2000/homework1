@@ -2,3 +2,36 @@ a
 {
     color: black ;
 }
+.form-group{
+    position: relative;
+}
+.search-input{
+    border-radius: 35px;
+    position: relative;
+    left: 22%;
+    width: 45%;
+
+}
+.content-img{
+    position: absolute;
+    top: 2%;
+    left: 67%;
+}
+.fa-search{
+    position: absolute;
+    top: 5%;
+    left:27%;
+
+}
+.btn-edit{
+    background-color: rgba(233, 229, 229, 0.699);
+    color: rgb(97, 94, 94);
+}
+
+main{
+    margin-bottom: 88px;
+}
+footer{
+    background-color: rgba(233, 229, 229, 0.699);
+
+}
